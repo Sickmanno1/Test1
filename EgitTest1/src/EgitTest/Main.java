@@ -6,6 +6,7 @@ public class Main {
 		
 	Proba proba1 = new Proba();
 	proba1.poruka();
-		
+	System.out.println("PRVA IZMJENA PA DA VIDIMO");
+	
 	}
 }
